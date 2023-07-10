@@ -1,0 +1,53 @@
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\bin\Debug\Client.exe.config
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\bin\Debug\Client.exe
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\bin\Debug\Client.pdb
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\bin\Debug\Common.dll
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\bin\Debug\Common.pdb
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.Form1.resources
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.csproj.CopyComplete
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.exe
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.pdb
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.FormDodajIzmeniGledaoca.resources
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.FormDodajIzmeniKartu.resources
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.FormDodajIzmeniPredstavu.resources
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.FormDodajIzmeniScenu.resources
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.FormDodajIzmeniTermin.resources
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.FormLogin.resources
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.FormRegister.resources
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.FormPredstaveZaIzabraniDatum.resources
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.FormPredstaveGledaoca.resources
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.FormTrajanjePredstave.resources
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.FormOAplikaciji.resources
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.FormPomoc.resources
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.FormJezik.resources
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\bin\Debug\Client.exe.config
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\bin\Debug\Client.exe
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\bin\Debug\Client.pdb
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\bin\Debug\Common.dll
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\bin\Debug\Common.pdb
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.FormDodajIzmeniGledaoca.resources
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.Form1.resources
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.FormDodajIzmeniKartu.resources
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.FormDodajIzmeniPredstavu.resources
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.FormDodajIzmeniScenu.resources
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.FormDodajIzmeniTermin.resources
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.FormJezik.resources
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.FormLogin.resources
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.FormOAplikaciji.resources
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.FormPomoc.resources
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.FormPredstaveGledaoca.resources
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.FormPredstaveZaIzabraniDatum.resources
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.FormRegister.resources
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.FormTrajanjePredstave.resources
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.csproj.CopyComplete
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.exe
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.pdb
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache

@@ -1,0 +1,21 @@
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Server\bin\Debug\Server.exe.config
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Server\bin\Debug\Server.exe
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Server\bin\Debug\Server.pdb
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Server\bin\Debug\Common.dll
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Server\bin\Debug\Common.pdb
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Server\obj\Debug\Server.csprojAssemblyReference.cache
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Server\obj\Debug\Server.csproj.CopyComplete
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Server\obj\Debug\Server.exe
+E:\Poslovni folder\Programiranje C#\CMT\CMT Projekat 2021\CMT Projekat 2021\Server\obj\Debug\Server.pdb
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Server\bin\Debug\Server.exe.config
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Server\bin\Debug\Server.exe
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Server\bin\Debug\Server.pdb
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Server\bin\Debug\Common.dll
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Server\bin\Debug\Common.pdb
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Server\obj\Debug\Server.csproj.CopyComplete
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Server\obj\Debug\Server.exe
+E:\Poslovni folder\Programiranje C# 3\CMT\CMT Projekat 2021\CMT Projekat 2021\Server\obj\Debug\Server.pdb

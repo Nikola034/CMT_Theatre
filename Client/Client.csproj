@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{18F423F6-F34F-4763-BC0F-C66915A499B6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Client</RootNamespace>
+    <AssemblyName>Client</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>C:\Users\Svarog\Dropbox\My PC (DESKTOP-4RPKNEU)\Downloads\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormDodajIzmeniGledaoca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDodajIzmeniGledaoca.Designer.cs">
+      <DependentUpon>FormDodajIzmeniGledaoca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDodajIzmeniKartu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDodajIzmeniKartu.Designer.cs">
+      <DependentUpon>FormDodajIzmeniKartu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDodajIzmeniPredstavu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDodajIzmeniPredstavu.Designer.cs">
+      <DependentUpon>FormDodajIzmeniPredstavu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDodajIzmeniScenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDodajIzmeniScenu.Designer.cs">
+      <DependentUpon>FormDodajIzmeniScenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDodajIzmeniTermin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDodajIzmeniTermin.Designer.cs">
+      <DependentUpon>FormDodajIzmeniTermin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormJezik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormJezik.Designer.cs">
+      <DependentUpon>FormJezik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormOAplikaciji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormOAplikaciji.Designer.cs">
+      <DependentUpon>FormOAplikaciji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPomoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPomoc.Designer.cs">
+      <DependentUpon>FormPomoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPredstaveGledaoca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPredstaveGledaoca.Designer.cs">
+      <DependentUpon>FormPredstaveGledaoca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPredstaveZaIzabraniDatum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPredstaveZaIzabraniDatum.Designer.cs">
+      <DependentUpon>FormPredstaveZaIzabraniDatum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRegister.Designer.cs">
+      <DependentUpon>FormRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTrajanjePredstave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTrajanjePredstave.Designer.cs">
+      <DependentUpon>FormTrajanjePredstave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pomocna.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormDodajIzmeniGledaoca.resx">
+      <DependentUpon>FormDodajIzmeniGledaoca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDodajIzmeniKartu.resx">
+      <DependentUpon>FormDodajIzmeniKartu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDodajIzmeniPredstavu.resx">
+      <DependentUpon>FormDodajIzmeniPredstavu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDodajIzmeniScenu.resx">
+      <DependentUpon>FormDodajIzmeniScenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDodajIzmeniTermin.resx">
+      <DependentUpon>FormDodajIzmeniTermin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormJezik.resx">
+      <DependentUpon>FormJezik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormOAplikaciji.resx">
+      <DependentUpon>FormOAplikaciji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPomoc.resx">
+      <DependentUpon>FormPomoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPredstaveGledaoca.resx">
+      <DependentUpon>FormPredstaveGledaoca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPredstaveZaIzabraniDatum.resx">
+      <DependentUpon>FormPredstaveZaIzabraniDatum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRegister.resx">
+      <DependentUpon>FormRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTrajanjePredstave.resx">
+      <DependentUpon>FormTrajanjePredstave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{e0e0cb8c-3909-4c8d-a986-d1e97e06a75a}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
